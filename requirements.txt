@@ -1,0 +1,61 @@
+# ==============================
+# AI Codebase Agent
+# Requirements
+# ==============================
+
+# Backend
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Environment & Configuration
+python-dotenv
+pydantic
+pydantic-settings
+
+# GitHub / Repository
+GitPython
+PyGithub
+
+# Code Parsing
+tree-sitter
+tree-sitter-python
+tree-sitter-javascript
+tree-sitter-typescript
+
+# LangChain / LangGraph
+langchain
+langchain-community
+langchain-core
+langgraph
+
+# LLM Providers
+langchain-openai
+langchain-google-genai
+langchain-mistralai
+
+# Local LLM
+langchain-ollama
+
+# Embeddings
+sentence-transformers
+
+# Vector Database
+chromadb
+langchain-chroma
+
+# Numerical / Utility
+numpy
+
+# HTTP
+httpx
+
+# Frontend - MVP
+streamlit
+
+# Testing
+pytest
+pytest-asyncio
+
+# Code Quality
+ruff
