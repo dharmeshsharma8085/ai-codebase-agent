@@ -1,0 +1,25 @@
+# Environment
+.env
+.env.*
+
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Repository data
+data/repositories/
+
+# Vector database
+chroma-db/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
